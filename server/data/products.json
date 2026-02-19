@@ -1,0 +1,62 @@
+[
+  {
+    "id": "f5324725-2a98-4046-a964-1007baff7efa",
+    "name": "OnePlus Nord CE4",
+    "price": "19389",
+    "imageUrl": "https://m.media-amazon.com/images/I/41bkMtA7usL._SX679_SY679_.jpg"
+  },
+  {
+    "id": "ab1c04fc-b2e3-4ceb-bfee-5ffda64ef0fc",
+    "name": "Redmi 13 5G Smartphone",
+    "price": "10999",
+    "imageUrl": "https://m.media-amazon.com/images/I/81AyOlAxwuL._SX679_SY679_.jpg"
+  },
+  {
+    "id": "45e57f49-5271-4f83-9e81-8731a5e5ea6c",
+    "name": "Apple iPhone 15 (128 GB) - Black",
+    "price": "47999",
+    "imageUrl": "https://m.media-amazon.com/images/I/71657TiFeHL._SX679_SY679_.jpg"
+  },
+  {
+    "id": "4652ef16-51b7-4cf4-81de-db7c90453e3b",
+    "name": "Apple MacBook Air (M2)",
+    "price": "64999",
+    "imageUrl": "https://m.media-amazon.com/images/I/71vFKBpKakL._SX679_SY679_.jpg"
+  },
+  {
+    "id": "aac5f4d5-d28b-4616-b4a0-09596ec0947a",
+    "name": "Apple Watch SE 3",
+    "price": "25900",
+    "imageUrl": "https://m.media-amazon.com/images/I/61k4ZoQDKVL._SX679_SY679_.jpg"
+  },
+  {
+    "id": "2d452784-1a3e-4a1a-8ab6-216356613030",
+    "name": "Lenovo Tab - Luna Grey",
+    "price": "7990",
+    "imageUrl": "https://m.media-amazon.com/images/I/71rjCPr462L._SX679_SY679_.jpg"
+  },
+  {
+    "id": "d25809f4-be0f-48e8-8cb7-dc0c5aae0f84",
+    "name": "boAt Lunar Discovery Smartwatch",
+    "price": "1099",
+    "imageUrl": "https://m.media-amazon.com/images/I/41uYSN1XJbL._SX679_SY679_.jpg"
+  },
+  {
+    "id": "18bf3209-93ee-4f9f-afbc-7c7bf0df1629",
+    "name": "JBL Tune 520BT Wireless On Ear Headphones",
+    "price": "2998",
+    "imageUrl": "https://m.media-amazon.com/images/I/61R9ECIaDyL._SX679_SY679_.jpg"
+  },
+  {
+    "id": "035e373d-9fef-40e1-aedd-5a36f1323937",
+    "name": "Noise Halo Plus Elite Edition Smartwatch",
+    "price": "2599",
+    "imageUrl": "https://m.media-amazon.com/images/I/41BCEyNR3RL._SX679_SY679_.jpg"
+  },
+  {
+    "id": "b735104f-6287-4819-b1e3-73d5aa28f7d0",
+    "name": "Samsung Galaxy A55 5G",
+    "price": "23999",
+    "imageUrl": "https://m.media-amazon.com/images/I/81pQfKZBmXL._SX679_SY679_.jpg"
+  }
+]
