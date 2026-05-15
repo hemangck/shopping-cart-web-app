@@ -11,7 +11,7 @@ app.use(cors());
 app.use(express.json());
 
 // getting port 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 // testing port
 app.listen(PORT, () => console.log(`Server running at http://localhost:${PORT}`));
