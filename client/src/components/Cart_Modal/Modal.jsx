@@ -44,7 +44,7 @@ function Modal({ cartObj = [], onClose }) {
 
   const checkOut = async (listPIdsQtys) => {
     try {
-      const resp = await fetch("http://localhost:3000/checkout", {
+      const resp = await fetch(`${import.meta.env.VITE_API_URL}/checkout`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(listPIdsQtys),
